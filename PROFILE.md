@@ -8,6 +8,5 @@ I’m particularly interested in how AI agents receive access, who is accountabl
 
 ## Links
 
-- [The 90-Day IAM Analyst Project](README.md)
+- [Identity Security Projects](README.md)
 - [GitHub Profile](https://github.com/itsanitarose)
-- [LinkedIn](YOUR-LINKEDIN-URL)
