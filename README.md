@@ -1,36 +1,30 @@
 # The 90-Day IAM Analyst Project
 
-**One IAM assignment a week: investigate, recommend, implement, verify.**
+**One IAM ticket a week: investigate, recommend, implement, verify.**
 
-I take on the work of an IAM analyst at a fictional healthcare company. Each assignment starts with a business request. Findings, recommendations, scripts, and test results are documented as the work progresses.
+I take on the work of an IAM analyst at a fictional healthcare company. Each ticket is a business request. Findings, recommendations, scripts, and test results are documented as the work progresses.
+
+Looking for specific skills? See [job requirements mapped to evidence](Job-Requirements.md). More about me: [professional profile](PROFILE.md).
 
 ## The Setting
 
-Northwind Health is a fictional, 120-person US healthcare SaaS company storing electronic protected health information (ePHI) for approximately 400 clinics. Each assignment addresses a different business request. Technical work takes place in my own Microsoft Entra ID test environment.
+Northwind Health is a fictional, 120-person US healthcare SaaS company storing electronic protected health information (ePHI) for approximately 400 clinics. Each ticket is a different business request. Technical work takes place in my own Microsoft Entra ID test environment.
 
-## Assignments
+## Tickets
 
-| Week | Assignment | Status |
+Each ticket is its own repository. This page tracks the series.
+
+| Week | Ticket | Status |
 |---|---|---|
-| 01 | [User Access Review](Week-01-Access-Review/README.md) | Assessment complete · Selected changes implemented and validated in Entra ID · Two observations open |
+| 01 | [User Access Review](https://github.com/itsanitarose/IAM-Access-Review) | Assessment complete · Selected changes implemented and validated in Entra ID · Two observations open |
 | 02 | [Permission Sprawl & RBAC](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Assessment complete |
 | 03 | [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Assessment complete |
 
-*New weekly assignments are added as the project progresses.*
+*New tickets are added as the project progresses.*
 
-## Inside Each Week
+## Inside Each Ticket
 
-- **README:** The ticket, my approach, and a summary of the results.
-- **Documents:** Scope, findings, recommendations, preventive controls, and review.
+- **README:** The request, my approach, and a summary of the results.
+- **Documents:** Scope, findings, recommendations, and preventive controls.
 - **Lab & Testing:** Implementation, scripts, and test evidence.
-
-
-## Review
-Feedback and resulting changes are recorded in the relevant weekly review.
-
-## Links
-
-- [Professional Profile & Additional IAM Projects](PROFILE.md)
-- [Job Requirements Mapped to Evidence](Job-Requirements.md)
-- [Project Updates on LinkedIn](PASTE-YOUR-LINKEDIN-URL-HERE)
 
