@@ -1,4 +1,4 @@
-# The 90-Day IAM Analyst Project
+# Identity Security Projects
 
 **One IAM ticket a week: investigate, recommend, implement, verify.**
 
