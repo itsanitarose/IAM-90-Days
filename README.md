@@ -4,7 +4,7 @@
 
 I take on the work of an IAM analyst at a fictional healthcare company. Each ticket is a business request. Findings, recommendations, scripts, and test results are documented as the work progresses.
 
-Looking for specific skills? See [job requirements mapped to evidence](Job-Requirements.md). More about me: [professional profile](PROFILE.md).
+Looking for specific skills? See [job requirements mapped to evidence](Job-Requirements.md). More about me: [professional profile](https://github.com/itsanitarose).
 
 ## The Setting
 
