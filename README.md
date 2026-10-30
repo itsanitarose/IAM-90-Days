@@ -1,4 +1,4 @@
-# Identity Security Projects
+# IAM Case Studies
 
 **One IAM ticket a week: investigate, recommend, implement, verify.**
 
