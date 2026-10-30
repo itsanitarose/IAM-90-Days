@@ -16,7 +16,7 @@ Each ticket is its own repository. This page tracks the series.
 
 | Week | Ticket | Status |
 |---|---|---|
-| 01 | [User Access Review](https://github.com/itsanitarose/IAM-Access-Review) | Assessment complete · Selected changes implemented and validated in Entra ID · Two observations open |
+| 01 | [User Access Review](https://github.com/itsanitarose/IAM-Access-Audit) | Assessment complete · Selected changes implemented and validated in Entra ID · Two observations open |
 | 02 | [Permission Sprawl & RBAC](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Assessment complete |
 | 03 | [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Assessment complete |
 
