@@ -1,12 +1,12 @@
-# Anita Rose
+### 👩🏾‍💻 Anita Rose
 
-**Identity & Access Management · AI Agent Security**
+**Identity Security · AI Security**
 
-My work focuses on access reviews, role-based access control, and the security of non-human identities. I assess permissions, document access risks, and develop practical controls using Microsoft Entra ID and PowerShell.
+I focus on **Identity and Access Management (IAM)**, designing and validating practical controls around access reviews, least privilege, role-based access control, and identity governance using **Microsoft Entra ID and PowerShell**.
 
-I’m particularly interested in how AI agents receive access, who is accountable for their actions, and how that access is restricted, reviewed, and revoked.
+My particular interest lies in **AI security and non-human identities**, where access boundaries, human oversight, and accountability are critical.
 
-## Links
+### 🔗 Explore My Work
 
-- [Identity Security Projects](README.md)
-- [GitHub Profile](https://github.com/itsanitarose)
+- **[Skills & Practical Work](https://github.com/itsanitarose/IAM-Case-Studies/blob/main/Job-Requirements.md)** — See how my projects align with IAM job requirements.
+- **[GitHub Profile](https://github.com/itsanitarose)** — Explore my portfolio and professional background.
