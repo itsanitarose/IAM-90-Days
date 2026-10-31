@@ -1,14 +1,8 @@
 # IAM Case Studies
 
-**One IAM ticket a week: investigate, recommend, implement, verify.**
+**One IAM ticket a week.**
 
-I take on the work of an IAM analyst at a fictional healthcare company. Each ticket is a business request. Findings, recommendations, scripts, and test results are documented as the work progresses.
-
-Looking for specific skills? See [job requirements mapped to evidence](Job-Requirements.md). More about me: [professional profile](https://github.com/itsanitarose).
-
-## The Setting
-
-Northwind Health is a fictional, 120-person US healthcare SaaS company storing electronic protected health information (ePHI) for approximately 400 clinics. Each ticket is a different business request. Technical work takes place in my own Microsoft Entra ID test environment.
+This series follows my work as an IAM analyst at a fictional company. Each ticket starts with a business request. I document my investigation, recommendations, and any implementation and testing as the work progresses.
 
 ## Tickets
 
@@ -20,7 +14,7 @@ Each ticket is its own repository. This page tracks the series.
 | 02 | [Permission Sprawl & RBAC](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Assessment complete |
 | 03 | [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Assessment complete |
 
-*New tickets are added as the project progresses.*
+*New tickets are added weekly.*
 
 ## Inside Each Ticket
 
@@ -28,3 +22,6 @@ Each ticket is its own repository. This page tracks the series.
 - **Documents:** Scope, findings, recommendations, and preventive controls.
 - **Lab & Testing:** Implementation, scripts, and test evidence.
 
+---
+
+Looking for specific skills? See [job requirements mapped to evidence](https://github.com/itsanitarose/IAM-Case-Studies/blob/main/Job-Requirements.md). More about me: [professional profile](https://github.com/itsanitarose).
